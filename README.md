@@ -3,6 +3,8 @@ This project is an end-to-end Business Intelligence solution built to analyze a 
 The report helps understand loan demand, funding performance, repayment behavior, and credit risk across time, geography, and borrower segments.  
 The dashboard is designed for **bank managers, risk teams, and business analysts** to support data-driven lending and portfolio decisions.
 
+### Live Dashboard Link: [Click here](https://app.powerbi.com/reportEmbed?reportId=962e2b10-91f0-425e-b1d1-592d9fdd2a1d&autoAuth=true&ctid=4398c2fc-05c1-4a0b-a312-c86b714cbc9a)
+
 ## 2. Business Problem / Objective
 
 Banks manage thousands of loans across different borrower profiles, regions, and risk categories.  
@@ -274,3 +276,5 @@ This project demonstrates a complete Business Intelligence workflow, including:
 - Insightful and interactive dashboards
 
 The report can be directly used by banking teams to monitor loan performance, manage credit risk, and support strategic decision-making.
+
+-- by Aniket Andhale
