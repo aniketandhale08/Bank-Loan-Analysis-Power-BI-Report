@@ -69,6 +69,8 @@ These steps ensured clean, consistent, and analysis-ready data.
 ### Model Design
 - **Single Fact Table:** `bank_loan_data`
 - **Date Dimension Table:** `Date Table`
+  
+![Data Model](https://github.com/aniketandhale08/Bank-Loan-Analysis-Power-BI-Report/blob/3ebb99b2d7d52db0e31bcd8bdd734e588e9a9f07/Media/Data%20Model.png)
 
 ### Date Table – Additional Calculated Columns
 
@@ -208,6 +210,7 @@ This parameter allows users to dynamically switch between key metrics in visuals
 
 ### 📌 Page 1: Summary
 
+![Dashboard 1](https://github.com/aniketandhale08/Bank-Loan-Analysis-Power-BI-Report/blob/3ebb99b2d7d52db0e31bcd8bdd734e588e9a9f07/Media/SS%201.png)
 **Visuals Included:**
 - High-level KPIs (Applications, Funding, Recovery, Interest Rate, DTI)
 - Month-to-Date (MTD) and Month-over-Month (MoM) comparison
@@ -220,6 +223,7 @@ Quick portfolio health check for management.
 
 ### 📌 Page 2: Overview
 
+![Dashboard 2](https://github.com/aniketandhale08/Bank-Loan-Analysis-Power-BI-Report/blob/3ebb99b2d7d52db0e31bcd8bdd734e588e9a9f07/Media/SS%202.png)
 **Visuals Included:**
 - Monthly trend analysis (Line Chart)
 - Regional analysis by state (Map)
@@ -235,6 +239,7 @@ Identify trends, patterns, and risk concentration across different borrower segm
 
 ### 📌 Page 3: Details
 
+![Dashboard 3](https://github.com/aniketandhale08/Bank-Loan-Analysis-Power-BI-Report/blob/3ebb99b2d7d52db0e31bcd8bdd734e588e9a9f07/Media/SS%203.png)
 **Visuals Included:**
 - Row-level loan table
 - Conditional formatting on recovery performance
